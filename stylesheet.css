@@ -1,0 +1,16 @@
+ 
+ p, h1
+ {font-family: broadway}
+ h4,li
+ {font-family: castellar}
+ body
+{background: url(winter.jpg)}
+h1
+{color: indigo}
+h1
+{text-align: center;}
+h4 {color: white}
+h4 {text-shadow: 2px 2px 0px black;}
+li
+{color: white}
+li{text-shadow: 1px 1px 0px black;}
